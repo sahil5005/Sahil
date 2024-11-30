@@ -1,5 +1,3 @@
-# README
-
 ## UI/UX Link for all pages
 
 ```
