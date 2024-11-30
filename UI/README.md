@@ -1,6 +1,6 @@
 ## UI/UX Link for all pages
 
-```base
+
 UI for Login Page: [Login](https://www.figma.com/design/tUMdUYuIO8U0f5h3ozBono/Login?m=auto&t=vq2jm9T7XBUhLVQn-6)
 UI for SignUp Page: [SignUp](https://www.figma.com/design/WJDhuDe7Ph0CUIehCCVcv2/Register?m=auto&t=vq2jm9T7XBUhLVQn-6)
 UI for Home Page: [Home](https://www.figma.com/design/k0lAxBqTX1XXPHqlHpE3dk/Front-Page?m=auto&t=vq2jm9T7XBUhLVQn-6)
